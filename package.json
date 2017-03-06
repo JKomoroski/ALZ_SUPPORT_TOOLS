@@ -1,0 +1,15 @@
+{
+  "name": "alianza_support_rest_interface",
+  "version": "0.0.1",
+  "description": "Alianza Support Endpoints and automation",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jared Komoroski",
+  "license": "ISC"
+}
